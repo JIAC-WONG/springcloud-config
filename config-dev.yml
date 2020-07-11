@@ -1,2 +1,3 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=1 name=JC"
+  info: "master branch,springcloud-config/config-dev.yml version=1 name=JC 使用BUS消息总线与Config配置中心！！ "
+  
